@@ -1,0 +1,32 @@
+{
+    "editor.wordWrap": "on",
+    "editor.fontSize": 16,
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#e100ff",
+        "activityBarBadge.background": "#ff0000",
+    },
+    "editor.tokenColorCustomizations": {
+        "comments":"#ffd900",
+        "[2077]": {
+            "keywords": "#cc00ff",
+            "variables": "#fffb00",
+            "comments": "#00ffff",
+            "functions": "#fbff00"
+        },
+        "[Shades of Purple (Super Dark)]": {
+            "keywords": "#ffd900",
+            "variables": "#e27901",
+            "comments": "#00fff2",
+            "functions": "#ff9900",
+            "strings": "#00ffff",
+            "textMateRules": [
+                {
+                    "scope": "entity.name.tag",
+                    "settings": {
+                        "foreground": "#ea00ff"
+                        }
+                }
+                ]
+        }
+    }
+}
