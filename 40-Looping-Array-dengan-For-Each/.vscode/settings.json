@@ -3,7 +3,7 @@
     "editor.fontSize": 16,
     "workbench.colorCustomizations": {
         "activityBar.foreground": "#e100ff",
-        "activityBarBadge.background": "#ff0000",
+        "activityBarBadge.background": "#ff0000"
     },
     "editor.tokenColorCustomizations": {
         "comments":"#ffd900",
@@ -27,6 +27,6 @@
                         }
                 }
                 ]
-        },
+        }
     }
 }
