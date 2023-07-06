@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Pengenalan-IO-Stream-input-file:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Pengenalan_IO_Stream_input_file_jar</output-path>
+    <root id="archive" name="Pengenalan-IO-Stream-input-file.jar">
+      <element id="module-output" name="Pengenalan-IO-Stream-input-file" />
+    </root>
+  </artifact>
+</component>
